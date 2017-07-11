@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  quick sort and insert sort.cpp
+quick sort and insert sort.cpp(32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  All 185 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  quick sort and insert sort.vcxproj -> C:\OneDrive\projects\Console\quick sort and insert sort\x64\Release\quick sort and insert sort.exe
