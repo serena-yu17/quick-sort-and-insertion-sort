@@ -1,0 +1,1 @@
+This was my practice implementing quick sort and insertion sort in "mainly" C.
